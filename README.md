@@ -27,6 +27,7 @@ Descripción de datos:
 
 # CONCLUSIÓN 
 
-El analisis nos permitio ver de forma más visible las tendencias y los valores que especificos que nos permitiran planificar campañas publicitarias más exitosas. Ya que conocemos cuales son las estadisticas de venta por consolas, region, rating y generos prefereido por nuestras audencias.
+El análisis nos permitió ver de forma más visible las tendencias y los valores que específicos que nos permitirán planificar campañas publicitarias más exitosas. Ya que conocemos cuales son las estadísticas de venta por consolas, región, rating y géneros preferido por nuestras audiencias.
 
-Cabe recalcar que el mercado a cambiado banstante como pudimos ver tuvimos un auge del 2006 a 2011 y del 2012 en dalante bajarn las ventas casi un 50% y se han mantenido. Es por eso que nuestro analsis de dividio en dos con la muestra completa y con muestra muestra recortada que nos permitiera analisar nuestra actualidad y del mercado. Decidimos recopilar datos de los últimos 5 años para elaborar un pronóstico para 2017, ya que consideramos que serían los más relevantes para nuestra situación en 2017.
+Cabe recalcar que el mercado a cambiado bastante como pudimos ver tuvimos un auge del 2006 a 2011 y del 2012 en adelante bajan las ventas casi un 50% y se han mantenido. Es por eso que nuestro análisis de dividió en dos con la muestra completa y con muestra recortada que nos permitiera analizar nuestra actualidad y del mercado. Decidimos recopilar datos de los últimos 5 años para elaborar un pronóstico para 2017, ya que consideramos que serían los más relevantes para nuestra situación en 2017.
+
