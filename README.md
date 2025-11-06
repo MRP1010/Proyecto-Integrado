@@ -73,7 +73,24 @@ Se adoptó un enfoque de análisis exploratorio segmentado, centrado en el perí
 
      » Pruebas de hipótesis para validar si las medias de ventas son estadísticamente diferentes entre regiones y géneros.
 
-# CONCLUSIÓN 
+## Resultados / Insights Clave.
+
+Los principales hallazgos del análisis, cruciales para la planificación de 2017, son:
+
+  » Ventas y Puntuaciones: La puntuación de los Críticos muestra una correlación más fuerte (aunque moderada) con las ventas que la puntuación de los Usuarios.
+
+  » Plataformas de Mayor Potencial: Las plataformas clave para el próximo año son PS4 y XOne por su alto crecimiento y vida útil en el periodo 2013-2016.
+
+  » Géneros Rentables: Aunque el género Action tiene el mayor volumen total de ventas, los géneros de Shooter y Role-Playing presentan el promedio de ventas más alto por juego, indicando un retorno de inversión superior.
+
+  » Impacto de la Clasificación (ESRB): Los juegos clasificados como M (Mature) generan consistentemente las mayores ventas totales, indicando un segmento de mercado adulto altamente rentable.
+
+  » Segmentación Geográfica:
+
+      » Japón (JP): Muestra una marcada preferencia por las consolas portátiles (3DS) y el género Role-Playing, diferenciándose fuertemente de Occidente.
+
+      » NA y EU: Comparten preferencias por Action, Shooter y Sports.
+
 
 El análisis nos permitió ver de forma más visible las tendencias y los valores que específicos que nos permitirán planificar campañas publicitarias más exitosas. Ya que conocemos cuales son las estadísticas de venta por consolas, región, rating y géneros preferido por nuestras audiencias.
 
