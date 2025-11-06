@@ -1,30 +1,6 @@
 # Data-Driven Success: Análisis Predictivo de Éxito en la Industria del Videojuego
 Proyecto Integrado.- Trabajas para la tienda online Ice que vende videojuegos por todo el mundo. Las reseñas de usuarios y expertos, los géneros, las plataformas (por ejemplo, Xbox o PlayStation). Tienes que identificar patrones que determinen si un juego tiene éxito o no.
 
-Descripción de datos:
-
-— Name (Nombre)
-
-— Platform (Plataforma)
-
-— Year_of_Release (Año de lanzamiento)
-
-— Genre (Género) 
-
-— NA_sales (ventas en Norteamérica en millones de dólares estadounidenses) 
-
-— EU_sales (ventas en Europa en millones de dólares estadounidenses) 
-
-— JP_sales (ventas en Japón en millones de dólares estadounidenses) 
-
-— Other_sales (ventas en otros países en millones de dólares estadounidenses) 
-
-— Critic_Score (máximo de 100) 
-
-— User_Score (máximo de 10) 
-
-— Rating (ESRB)
-
 ## Objetivo – ¿Qué problema resolviste con datos?
 
 El objetivo principal fue mitigar el riesgo y la incertidumbre en la planificación de marketing y desarrollo de la tienda online Ice.
